@@ -56,6 +56,10 @@ section {
   background-color: gray;
 }
 
+#contact:hover {
+  background-color: gray;
+}
+
 footer {
   width: 100%;
   bottom: 0;
@@ -64,4 +68,10 @@ footer {
   background: gray;
   margin-top: auto;
   font-size: larger;
+}
+
+#technicalSkills:hover {
+  background-color: gray;
+}
+@media screen and (max-width: 768px) {
 }

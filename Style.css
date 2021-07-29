@@ -4,6 +4,7 @@ header {
   background: #a5c4e1;
   color: black;
   font-family: "David Libre", serif;
+  font-size: larger;
 }
 
 body {
@@ -21,7 +22,6 @@ ul.navMenu {
   list-style: none;
   display: flex;
   justify-content: space-between;
-  /* flex-direction: row; */
   flex-wrap: wrap;
   border-style: solid;
   padding: 1px;
@@ -31,6 +31,8 @@ ul.navMenu {
 ul.navMenu li {
   display: inline;
   background-color: chartreuse;
+  font-family: "David Libre", serif;
+  font-size: larger;
 }
 /* @media screen and (max-width: 992px) {
   header {
@@ -43,7 +45,7 @@ footer {
   bottom: 0;
   padding: 20px;
   text-align: center;
-  background: #134472;
-  color: #fff;
+  background: #a5c4e1;
   margin-top: auto;
+  font-size: larger;
 }

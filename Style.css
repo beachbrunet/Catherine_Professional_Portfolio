@@ -70,6 +70,18 @@ footer {
   font-size: larger;
 }
 
+img {
+  width: 300px;
+  height: 300px;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 90px;
+  border-radius: 25px;
+  align-content: flex-end;
+}
+
 #technicalSkills:hover {
   background-color: gray;
 }
